@@ -1,1 +1,1 @@
-"""IPMI Control component."""
+"""IPMI Control Server component."""
