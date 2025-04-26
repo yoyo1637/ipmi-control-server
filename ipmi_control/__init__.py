@@ -1,1 +1,0 @@
-"""IPMI Control component."""
