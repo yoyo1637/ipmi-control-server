@@ -1,0 +1,10 @@
+{
+  "domain": "ipmi_control",
+  "name": "IPMI Server Control",
+  "version": "1.0.0",
+  "documentation": "https://github.com/ton_github/ipmi_control",
+  "dependencies": [],
+  "codeowners": ["@ton_pseudo_github"],
+  "requirements": ["pyghmi>=1.5.13"],
+  "iot_class": "local_polling"
+}

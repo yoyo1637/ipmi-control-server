@@ -1,0 +1,6 @@
+reset_server:
+  description: "Reset (reboot) the server via IPMI"
+  fields:
+    entity_id:
+      description: "Entity ID of the server to reset"
+      example: "switch.mon_serveur_ipmi"
